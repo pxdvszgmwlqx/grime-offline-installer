@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+There’s more than one proper way to use a piano! Discover it in Ridiculous Catapult Simulator, a wacky deck-building experience. Launch insanely dull daily-life ammo to create insanely smart combos and bombard silly enemies coming to lick your castle to death. Careful, it’s addictive!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Intel i5-3570k | Intel Core i5 / Apple M1 |
+| **Memory** | 2 GB RAM | 2 GB RAM |
+| **Graphics** | GeForce GTX 660 | Metal-capable GPU |
+| **Storage** | 2 GB available space | 2 GB available space |
+| **OS *** | Windows 8/8.1/10 | Windows 8/8.1/10 |
 
 ---
 
